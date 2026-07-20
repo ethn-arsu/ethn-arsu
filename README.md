@@ -12,4 +12,6 @@ An ID 125 taking up Computer Engineering at De La Salle University - Manila.
 * Java
 * MATLAB
 * Python
+* HTML
+* CSS 
 * more to come?
