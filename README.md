@@ -1,12 +1,11 @@
 # Hello!
 
 ### About Me
-An ID 125 taking up Computer Engineering at De La Salle University - Manila.
+An ID 125 student taking Computer Engineering at De La Salle University - Manila.
 
-* Currently focused on developing various software for laboratory activities.
-* Mainly interested in the hardware side of computers
+* Currently focused on developing various software for laboratory activities and projects.
+* Mainly interested in the hardware side of computers.
 * Likes computers, gaming, and sleeping as hobbies.
-* Has varying degrees of knowledge in each programming language; amateur at best.
 
 
 ### Languages
@@ -17,3 +16,10 @@ An ID 125 taking up Computer Engineering at De La Salle University - Manila.
 * HTML
 * CSS
 * Lua
+
+### Development Environments
+* IntelliJ IDEA
+* PyCharm
+* CLion
+* Visual Studio Code
+* Roblox Studio
